@@ -18,4 +18,4 @@ Drag the .exe into the folder
 
 Done
 
-I'm completely new to GitHub & have no idea what I'm doing by the way so if this entire GitHub page is formatted incorrectly, forive me.
+I'm completely new to GitHub & have no idea what I'm doing by the way so if this entire GitHub page is formatted incorrectly, forgive me yo 🦦✌️
