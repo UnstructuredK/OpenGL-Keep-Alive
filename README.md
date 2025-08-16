@@ -6,7 +6,7 @@ It's extremely lightweight, using 0% of my CPU & GPU + very little of my RAM
 
 The reason I made it was to use in a GPU Partitioned Virtual Machine to bypass Parsec/Moonlight connection disabling OpenGL stopping me from playing Minecraft & whatnot
 
-============For hassle free use, place the .exe into the startup folder of your Virtual Machine=============
+========For hassle free use, place the .exe into the startup folder of your Virtual Machine========
 
 Win + R
 
