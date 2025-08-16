@@ -19,3 +19,13 @@ Drag the .exe into the folder
 Done
 
 I'm completely new to GitHub & have no idea what I'm doing by the way so if this entire GitHub page is formatted incorrectly, forgive me yo 🦦✌️
+
+
+
+Program will fix OpenGL not working in Hyper-V Virtual Machines / Virtualization
+
+Prgoram acts as a Substitute for Furmark GUI / GPUTest - Using FAR less Resources
+
+Will Solve / Fix OpenGL Driver Related Errors Messages ex: Minecraft GLFW error 65542: WGL: The driver does not appear to support OpenGL. Please make sure you have up-to-date drivers (see aka.ms/mcdriver for instructions).
+
+MAKES OPENGL WORK IN A VIRTUAL MACHINE
